@@ -1,0 +1,3 @@
+[submodule "music_theory_flyby"]
+	path = music_theory_flyby
+	url = git@github.com:arntzy/music_theory_flyby.git
