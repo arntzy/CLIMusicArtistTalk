@@ -63,3 +63,43 @@
   - sonfication of keystrokes in the vim text editor
 - [TuRING](https://vimeo.com/127219302)
   - change the 'piano' under your fingertips according to the 'movement' of a [turing tape]() calculation.
+
+
+## Examples?
+
+### p5
+
+#### play-scale
+
+- simple synthesis concepts
+- waveform, envelope, midi notes 
+
+#### play-audio
+
+- show loading of a sample 
+
+#### cat-sampler
+
+- To generate material from inside the `scripts/` directory (might not always work, haha!):
+```bash
+$ ./getVideos.sh -c 6 -s <searchTerm>`
+$ ./assetList.sh
+```
+- Serve p5 and press keys! 
+
+### TidalCycles
+  - [TidalCycles](https://tidalcycles.org/index.php/Welcome)
+
+#### chords
+  
+-  demonstrate randomness of theory
+
+#### trumbone
+ 
+- randomness with samples
+
+#### string quartet
+
+- more randomness with samples
+
+## GO OUT THERE AND MAKE SOMETHING!
