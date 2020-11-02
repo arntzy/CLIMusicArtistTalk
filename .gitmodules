@@ -1,3 +1,6 @@
 [submodule "music_theory_flyby"]
 	path = music_theory_flyby
 	url = git@github.com:arntzy/music_theory_flyby.git
+[submodule "p5-examples"]
+	path = p5-examples
+	url = git@github.com:arntzy/p5-examples.git
