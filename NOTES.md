@@ -41,7 +41,7 @@
 
 #### Reference Material
 
-- [Flyby (Lecture) on Music Theory and Data Structures Cheatsheet](https://github.com/arntzy/music_theory_flyby/blob/master/music_theory_cheatsheet.txt)
+- [Flyby (Lecture) on Music Theory and Data Structures Cheatsheet](https://github.com/arntzy/music_theory_flyby/blob/6b1480ecc95fbe5797b9af6ef6659d19ded68ad1/music_theory_cheatsheet.md)
 
 #### Process Works
 
@@ -69,16 +69,16 @@
 
 ### p5
 
-#### play-scale
+#### [play-scale](https://github.com/arntzy/p5-examples/tree/master/play-scale)
 
 - simple synthesis concepts
 - waveform, envelope, midi notes 
 
-#### play-audio
+#### [play-audio](https://github.com/arntzy/p5-examples/tree/master/play-audio)
 
 - show loading of a sample 
 
-#### cat-sampler
+#### [cat-sampler](https://github.com/arntzy/cat-sampler/tree/3489c08b9a7efd156a89a2e25b0bfb69352c5813)
 
 - To generate material from inside the `scripts/` directory (might not always work, haha!):
 ```bash
@@ -90,15 +90,11 @@ $ ./assetList.sh
 ### TidalCycles
   - [TidalCycles](https://tidalcycles.org/index.php/Welcome)
 
-#### chords
+#### chords.tidal
   
 -  demonstrate randomness of theory
 
-#### trumbone
- 
-- randomness with samples
-
-#### string quartet
+#### stringquartet.tidal
 
 - more randomness with samples
 
